@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegExpLab7\bin\Debug\netcoreapp3.0\RegExpLab7.exe
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegExpLab7\bin\Debug\netcoreapp3.0\RegExpLab7.deps.json
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegExpLab7\bin\Debug\netcoreapp3.0\RegExpLab7.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegExpLab7\bin\Debug\netcoreapp3.0\RegExpLab7.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegExpLab7\bin\Debug\netcoreapp3.0\RegExpLab7.dll
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegExpLab7\bin\Debug\netcoreapp3.0\RegExpLab7.pdb
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegExpLab7\obj\Debug\netcoreapp3.0\RegExpLab7.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegExpLab7\obj\Debug\netcoreapp3.0\RegExpLab7.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegExpLab7\obj\Debug\netcoreapp3.0\RegExpLab7.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegExpLab7\obj\Debug\netcoreapp3.0\RegExpLab7.dll
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegExpLab7\obj\Debug\netcoreapp3.0\RegExpLab7.pdb

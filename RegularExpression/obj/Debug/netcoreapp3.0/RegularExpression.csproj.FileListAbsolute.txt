@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.0\RegularExpression.exe
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.0\RegularExpression.deps.json
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.0\RegularExpression.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.0\RegularExpression.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.0\RegularExpression.dll
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegularExpression\bin\Debug\netcoreapp3.0\RegularExpression.pdb
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.0\RegularExpression.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.0\RegularExpression.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.0\RegularExpression.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.0\RegularExpression.dll
+C:\Users\Holmes HQ\source\repos\RegularExpression\RegularExpression\obj\Debug\netcoreapp3.0\RegularExpression.pdb
